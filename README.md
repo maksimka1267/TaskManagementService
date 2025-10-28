@@ -11,7 +11,7 @@
 
 ## 🔧 Технології
 
-* C# / .NET 6
+* C# / .NET 9
 * ASP.NET Core Web API
 * InMemory repository
 * xUnit (тестування)
