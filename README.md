@@ -52,7 +52,8 @@ dotnet test
 
 ## 📸 Результати тестів
 
-<img width="1095" height="274" alt="image" src="https://github.com/user-attachments/assets/7bca1262-dbce-4fb5-8f3a-7dc6ac17fa81" />
+<img width="1090" height="268" alt="image" src="https://github.com/user-attachments/assets/f92ce92a-8889-4168-9382-86a0c840bf26" />
+
 
 
 ---
